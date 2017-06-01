@@ -1,0 +1,26 @@
+{
+  "name": "plenty-o-stuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sargent88/plenty-o-stuff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sargent88/plenty-o-stuff/issues"
+  },
+  "homepage": "https://github.com/sargent88/plenty-o-stuff#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3"
+  }
+}
